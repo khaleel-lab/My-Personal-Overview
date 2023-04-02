@@ -8,8 +8,8 @@ I've been learning to code for 2 years, after switching careers. I started with 
 
 * 🌍  I'm based in Bangalore
 * 🖥️  See my portfolio at [LazyCoderLee](http://lazycoderlee.web.app/)
-* ✉️  You can contact me at [khaleel7896@gmail.com](mailto:khaleel7896@gmail.com)
-* 🧠  I'm learning TypeScript & NextJS
+* ✉️  You can contact me at [lazycoderlee@gmail.com](mailto:lazycoderlee@gmail.com)
+* 🧠  I'm learning TypeScript & NodeJS
 * 🤝  I'm open to collaborating on Full-stack MERN application
 
 ### Skills
